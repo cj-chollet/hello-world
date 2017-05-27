@@ -1,3 +1,3 @@
 # hello-world
 My hello world project
-Add on line to the README file.
+Add one line to the README file.
